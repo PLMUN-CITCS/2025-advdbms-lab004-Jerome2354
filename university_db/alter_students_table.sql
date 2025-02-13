@@ -1,5 +1,5 @@
-USE `UniversityDB`;
 
+USE `UniversityDB`;
 
 ALTER TABLE `Students`
 ADD `Email` VARCHAR(100);
